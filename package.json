@@ -1,0 +1,13 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marissa#6335 by. Code Share",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.2",
+    "express": "^4.17.1"
+  }
+}
