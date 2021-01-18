@@ -22,8 +22,8 @@ Eğer Projeyi glitch.com'da Kulanacak İseniz Bot Tokeninizi .env İsimli Dosyay
 
 **NOT 4: Komutlar Klasörüne Dosya Eklemek için commands/komut-ismi.js Şeklinde Yükleme Yapınız! Örnek: commands/reboot.js**
 
-## Bu Altyapı Discord.js V12 Sürümüne Göre İngilizce ve TürkçSistemle Kodlanmıştır!
+## Bu Altyapı Discord.js V12 Sürümüne Göre İngilizce ve Türkçe Sistemle Kodlanmıştır!
 
-_Discord Code Shâre Ekibi İyi Günler Diler!_
+_Code Share Ekibi İyi Günler Diler!_
 
 _Made By. Marissa_
