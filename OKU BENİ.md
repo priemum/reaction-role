@@ -6,11 +6,11 @@
   <h1></h1>
 
 <h1>Bu Konuda Türkiyenin En İyisi Olma Yolunda!</h1>
-  <h1></h1>
+
   <a href="https://codeshare.xyz/uptime">Botunu 7/24 Aktif Tutmak İçin Tıkla!</a>
-  
+  <h1>
   <a>Bu Altyapıyı İzinsiz Paylaşmak Yasaktır Code Share Serverine Gelerek Lütfen İzin Almayı Deneyin!</a>
-  
+  </h1>
 _..:: BILGILER::.._
 
 **NOT 1: config.json Dosyasını Kendinize Göre Doldurmadan Projeye Başlamayın!**
