@@ -8,7 +8,7 @@ let reactions = require("./reactions");
 app.get("/", (request, response) => {
   console.log(`Uptime Başarılı`);
   response.sendStatus(200);
-});
+});   
 app.listen(3000);
 
 const config = require("./config.json");
